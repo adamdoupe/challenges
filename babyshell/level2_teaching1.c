@@ -104,7 +104,7 @@ int main(int argc, char **argv, char **envp)
     printf("###\n");
     printf("\n");
     printf("This challenge reads in some bytes, modifies them (depending on the specific\n");
-    printf("challenge configuration, and executes them as code! This is a common exploitation\n");
+    printf("challenge configuration), and executes them as code! This is a common exploitation\n");
     printf("scenario, called \"code injection\". Through this series of challenges, you will\n");
     printf("practice your shellcode writing skills under various constraints!\n");
     printf("\n");
